@@ -1,0 +1,21 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "renpy/common/00start.rpy", line 107, in script
+    return
+Exception: Could not find return label (u'/Users/Angela/Projects/renpy-6.99.12.2-sdk/Lava_Jato/game/script.rpy', 1483458406, 2).
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 107, in script
+    return
+  File "/Users/Angela/Projects/renpy-6.99.12.2-sdk/renpy/ast.py", line 1376, in execute
+    next_node(renpy.game.context().lookup_return(pop=True))
+  File "/Users/Angela/Projects/renpy-6.99.12.2-sdk/renpy/execution.py", line 552, in lookup_return
+    raise Exception("Could not find return label {!r}.".format(self.return_stack[-1]))
+Exception: Could not find return label (u'/Users/Angela/Projects/renpy-6.99.12.2-sdk/Lava_Jato/game/script.rpy', 1483458406, 2).
+
+Darwin-16.3.0-x86_64-i386-64bit
+Ren'Py 6.99.12.2.2029
+Lava Jato 1.0
