@@ -5,7 +5,7 @@ Caso vc manje dos photoshop e queira usar-lo: *~no problem~*
 Mas eu acho legal manter um default ja que o piskel é otimo para criação de sprites em pixel art e qualquer um pode ajudar mais facilmente.
 
 O intuito é ser algo relativamente proximo a esse formato:
-![Exemplo](/tuto-art/exemplo.jpeg)
+![Exemplo](/imgs/exemplo.jpeg)
 
 ###Como envio meu trabalho?
 Para adicionar um sprite no jogo basta Forkar e dar um Pull Request colocando seu sprite na pasta "Sprites"
@@ -15,25 +15,25 @@ OU me mandar pelo telegram ou whatever(so nao mande por fb pq ele zoa a qualidad
 Caso não fique ok eu dou uma corrigida.
 
 ###Estamos precisando de:
-[ ] Cenário geral (chao, lixo, grama, pedra, ceu)
-[ ] Pontos turisticos de brasilia
+- [ ] Cenário geral (chao, lixo, grama, pedra, ceu)
+- [ ] Pontos turisticos de brasilia
 * Congresso
 * Catedral
 * Pier
-[ ] Modelo de personagem
-[ ] Roupas e cabelos que encaixem no modelo de personagem
+- [ ] Modelo de personagem
+- [ ] Roupas e cabelos que encaixem no modelo de personagem
 
 Claro, nem tudos os sprites são permanentes, se uma graminha ficar zuada n tem problema pq depois a gente arruma.
 
 ###Algumas dicas:
 ####Como fazer os traços:
-![Como desenhar de forma limpa](/tuto-art/tutorial1.png)
+![Como desenhar de forma limpa](/imgs/tutorial1.png)
 ####Sombreamento correto:
-![Sombreamento correto](/tuto-art/tutorial2.png)
+![Sombreamento correto](/imgs/tutorial2.png)
 ####Predios:
-![Predios](/tuto-art/tutorial3.gif)
+![Predios](/imgs/tutorial3.gif)
 ####Texturas:
-![Texturas](/tuto-art/tutorial4.jpg)
+![Texturas](/imgs/tutorial4.jpg)
 
 ###Ou mais [AQUI](https://br.pinterest.com/patrickdaniels/pixelart-tutorials/)
 
