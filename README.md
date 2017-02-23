@@ -1,27 +1,22 @@
-#Lava Jato - The Game (tales of corruption)
+#Lava Jato - The Game (Tales of Corruption)
 
 ##Ideia
-LAVA JATO THE GAME
-UM JOGO DE TODOS
+Lava Jato - The Game
+
+Um jogo de todos
 
 ##Como colaborar
 
-####ARTE:
-[ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/arte.md)
-####MUSICA:
-[ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/musica.md)
-####MECANICA DO JOGO/PLOT:
-[ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/mecanica.md)
-PROGRAMACAO:
-**(BLOCKED)**
++ **Arte:** [Leia aqui](https://github.com/lava-jato-the-game/lava_jato/blob/master/arte.md)
++ **Música:** [Leia aqui](https://github.com/lava-jato-the-game/lava_jato/blob/master/musica.md)
++ **Mecânica/Plot do jogo:** [Leia aqui](https://github.com/lava-jato-the-game/lava_jato/blob/master/mecanica.md)
++ **Programação:** (BLOCKED)
 
-####NOSSO TRELLO:
-https://trello.com/b/qkD8gb6A/car-wash-board-geral
-####NOSSO GRUPO DO TELEGRAM
-https://t.me/joinchat/AAAAAAt0zmM4OagA2WAnyA
-####NOSSO GRUPO DO FACEBOOK
-https://www.facebook.com/groups/386266195082826/?fref=ts
-####NOSSO GRUPO DO DISCORD
-**(Tem que pedir invite)**
+##Contato
 
-:star: Chamem seus amigos :star:
++ **Trello:** [Clique aqui](https://trello.com/b/qkD8gb6A/car-wash-board-geral)
++ **Grupo no Telegram:** [Clique aqui](https://t.me/joinchat/AAAAAAt0zmM4OagA2WAnyA)
++ **Grupo no Facebook:** [Clique aqui](https://www.facebook.com/groups/386266195082826/?fref=ts)
++ **Grupo no Discord:** Invite sob requisição
+
+:star: Chame seus amigos! :star:
