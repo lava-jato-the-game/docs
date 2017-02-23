@@ -1,10 +1,9 @@
 #Como colaborar com a musica?
 
 O jogo ainda não tem necessidade concreta de músicas, porém qualquer material interessante será bem aproveitado. 
-Pode ser em 8bits, ter samplerzinhos de guitarra ou até o funk do cachorro chorando desde que passe uma vibe legal :smile:
-Não vamos nos limitar em um estilo só!
+Pode ser em 8bits, ter samplerzinhos de guitarra ou até o funk do cachorro chorando, desde que passe uma vibe legal. Não vamos nos limitar a apenas um estilo.
 
-###Precisamos por agora de:
+###Por agora, precisamos de:
 
 + Músicas ambientais para cenários de brasilia
 + Efeitos sonoros (e.g.: cliques de botão, ataques, plim plims)
