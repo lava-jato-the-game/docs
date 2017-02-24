@@ -1,19 +1,19 @@
 #Como colaborar com a musica?
 
-Por agora ainda é abstrato exaaatamente o que vamos precisar mas acho que qualquer material interessante vai ser bem aproveitado!
-Pode ser em 8bits, ter samplerzinhos de guitarra ou até o funk do cachorro chorando desde que passe uma vibe legal :smile:
-Não vamos nos limitar em um estilo só!
+O jogo ainda não tem necessidade concreta de músicas, porém qualquer material interessante será bem aproveitado. 
+Pode ser em 8bits, ter samplerzinhos de guitarra ou até o funk do cachorro chorando, desde que passe uma vibe legal. Não vamos nos limitar a apenas um estilo.
 
-###Precisamos por agora de:
+###Por agora, precisamos de:
 
-* Musicas ambientais para cenários de brasilia, nada realmente mto longo nem detalhado, só precisa loopar que tá bom. Seria legal referencias a funk, samba etc
-
-* Efeitos sonoros de coisas como cliques de botao, ataques, plim plims e etc.
++ Músicas ambientais para cenários de brasilia
++ Efeitos sonoros (e.g.: cliques de botão, ataques, plim plims)
 
 ###Como envio meu trabalho?
-Para adicionar um sprite no jogo basta dar um Pull Request colocando a musica na pasta "audio"
-OU então pedir pra eu te dar direito aqui no repo e colocar
-OU me mandar por qualquer meio de comunicação(tanto faz).
+
++ Forkar e dar um Pull Request colocando seu sprite na pasta "audio",
++ Pedir para eu te dar direito de adicionar ao repositório diretamente
++ Enviar-me diretamente, pelo Telegram ou similar
+
 
 ###Vou ter creditos por isso?
-Lógico! todo mundo que colaborou tem seu nomezinho na criação do jogo.
+Todos que colaborarem terão seu nome na criação do jogo.
