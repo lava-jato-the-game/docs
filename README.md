@@ -1,18 +1,20 @@
-#Lava Jato - The Game (Tales of Corruption)
+# Lava Jato - The Game (Tales of Corruption)
 
-##Ideia
+## Ideia
 Lava Jato - The Game
 
 Um jogo de todos
 
-##Como colaborar
+*Atualmente em hiato mas vamos voltar a ativa assim que possivel*
+
+## Como colaborar
 
 + **Arte:** [Leia aqui](https://github.com/lava-jato-the-game/lava_jato/blob/master/arte.md)
 + **Música:** [Leia aqui](https://github.com/lava-jato-the-game/lava_jato/blob/master/musica.md)
 + **Mecânica/Plot do jogo:** [Leia aqui](https://github.com/lava-jato-the-game/lava_jato/blob/master/mecanica.md)
 + **Programação:** (BLOCKED)
 
-##Contato
+## Contato
 
 + **Trello:** [Clique aqui](https://trello.com/b/qkD8gb6A/car-wash-board-geral)
 + **Grupo no Telegram:** [Clique aqui](https://t.me/joinchat/AAAAAAt0zmM4OagA2WAnyA)
