@@ -12,7 +12,7 @@ UM JOGO DE TODOS
 [ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/musica.md)
 #### MECANICA DO JOGO/PLOT:
 [ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/mecanica.md)
-PROGRAMACAO:
+#### PROGRAMACAO:
 [ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/programacao.md)
 
 #### NOSSO TRELLO:

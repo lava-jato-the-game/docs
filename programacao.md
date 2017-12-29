@@ -1,4 +1,5 @@
 ## Decisões
 
-Usar ClojureScript no front-end e Elixir no back-end
-Criaremos um repositório p/ tal
+- ClojureScript no front-end 
+- Elixir no back-end
+- Temq ser pwa
