@@ -13,7 +13,7 @@ UM JOGO DE TODOS
 ####MECANICA DO JOGO/PLOT:
 [ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/mecanica.md)
 PROGRAMACAO:
-**(BLOCKED)**
+[ LEIA AQUI ](https://github.com/lava-jato-the-game/lava_jato/blob/master/programacao.md)
 
 ####NOSSO TRELLO:
 https://trello.com/b/qkD8gb6A/car-wash-board-geral
