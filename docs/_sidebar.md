@@ -1,0 +1,6 @@
+* [HOME](README.md)
+* [COLABORAR](colaborar/README.md)
+* [GAMEPLAY](gameplay/README.md)
+* [DESENVOLVIMENTO](desenvolvimento/README.md.md)
+* [FAQ](faq.md)
+* [REGRAS](regras.md)
