@@ -4,11 +4,13 @@ CORE MVP 1
 - Pagina de leis (sistema de leilão em que pessoas podem submeter leis)
 - Conexoes (achar amigos via fb e fazer esquema em piramide de dinheiro)
 - Criacao de personagem e escolha de classe(partido)
+- Ban
 
 CORE MVP 2
 - Pagina de partidos, invites e ações relacionadas a isso
 - Forum - Cantina da camara
 - Logins
+- Investigado - Prisão
 - Eleições (Rankings temporarios com os melhores do partido etc)
 - Cash: 
     - Cocaina: Energia
