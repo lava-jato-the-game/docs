@@ -7,7 +7,7 @@
 * [GAMEPLAY](gameplay/README.md)
     * [Camara](gameplay/camara.md)
     * [Jogador](gameplay/jogador.md)
-    * [Partido](gameplay/partido.md)
+    * [Partido](gameplay/partidos.md)
 * [DESENVOLVIMENTO](desenvolvimento/README.md)
     * [MVP](desenvolvimento/MVP.md)
     * [Telas](desenvolvimento/telas.md)
