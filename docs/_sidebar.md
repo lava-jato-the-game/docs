@@ -11,5 +11,6 @@
 * [DESENVOLVIMENTO](desenvolvimento/README.md)
     * [MVP](desenvolvimento/MVP.md)
     * [Telas](desenvolvimento/telas.md)
+    * [Reuniões](desenvolvimento/reunioes.md)
 * [FAQ](faq.md)
 * [REGRAS](regras.md)
