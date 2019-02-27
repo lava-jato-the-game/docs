@@ -1,6 +1,6 @@
 # Reuniões
 
-Reuniões apartir do dia 25/02
+Reuniões a partir do dia 25/02
 
 #### Ata 0
 - O MVP será um cadastro via FB, criação basica do personagem e uma missão de farmar dinheiro
